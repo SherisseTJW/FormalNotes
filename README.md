@@ -10,9 +10,10 @@ I will (hopefully) continue to expand this to include other topics that I am stu
 
 ## Computer Science
 1. [CS2106: Introduction to Operating Systems](./NUS/CS2106.pdf)
-2. [CS3211: Parallel and Concurrent Programming](./NUS/CS3211.pdf)
-3. [CS3230: Design and Analysis of Algorithms](./NUS/CS3230.pdf)
-4. [CS4212: Compiler Design](./NUS/CS4212.pdf)
+2. [CS2109S: Introduction to AI and Machine Learning](./NUS/CS2109S.pdf)
+3. [CS3211: Parallel and Concurrent Programming](./NUS/CS3211.pdf)
+4. [CS3230: Design and Analysis of Algorithms](./NUS/CS3230.pdf)
+5. [CS4212: Compiler Design](./NUS/CS4212.pdf)
 
 ## Mathematics and/or Statistics
 1. [MA1522: Linear Algebra](./NUS/MA1522.pdf)
